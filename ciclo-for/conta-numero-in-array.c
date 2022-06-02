@@ -33,7 +33,7 @@ int main() {
 	
 	int lunghezzaArray = sizeof numbers / sizeof numbers[0];
 	
-	for (contatore = 0; contatore < lunghezzaArray; contatore++)
+	for (contatore = 0; contatore <= (lunghezzaArray - 1); contatore++)
 	{
 	    int numeroDaEsaminare = numbers[contatore];
 	    
