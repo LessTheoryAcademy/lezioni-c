@@ -68,8 +68,6 @@ int main() {
 	
 	numeroDaCercare = 15;
 	
-	indice;
-	
 	// ricordarci se abbiamo trovato il numero o no
 	isTrovato = false;
 	
@@ -108,9 +106,7 @@ int main() {
 	"e l'indice in cui si trova in caso positivo (stampare un messaggio informativo anche se non e' stato trovato)"
 	"se e' presente piu' di una volta, mostrare il primo indice in cui si trova\n\n");
 	
-	numeroDaCercare = 15;
-	
-	indice;
+	numeroDaCercare = 15;	
 	
 	// ricordarci se abbiamo trovato il numero o no
 	isTrovato = false;
