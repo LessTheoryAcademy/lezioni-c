@@ -5,7 +5,7 @@ Prima un poco di teoria (ma veramente poca!!) e poi partiamo subito con lo scriv
 In ogni lezione ci saranno dei problemi da risolvere, e li svilupperemo insieme, scrivendo il codice e commentandolo passo passo soffermandoci sugli aspetti più complessi e capendoli fino in fondo.
 
 ## In questo repository trovi il codice relativo alle lezioni di C che potrai seguire gratuitamente su :
-https://www.youtube.com/watch?v=d4WdGdU7zT8&list=PLl8lST6xZTJbK1rixcLSXC69zfO_bjhVY
+https://www.youtube.com/watch?v=Ik73Jh-JYzI&list=PLl8lST6xZTJbK1rixcLSXC69zfO_bjhVY
 
 Buono studio! :)
 
