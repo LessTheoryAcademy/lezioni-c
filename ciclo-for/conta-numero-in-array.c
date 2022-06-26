@@ -6,7 +6,7 @@ int main() {
 	printf("mostrare tutti i numeri presenti in un array\n");
 	
 	// primo elemento di un array ha indice 0
-	// ultimo elemento del nostro array ha indice 11, totale di elementi in array 12
+	// ultimo elemento del nostro array ha indice 13, totale di elementi in array 14
 	// ultimo elemento ha come indice il numero degli elementi dell'array - 1
 	
 	// 0, 1, 2, 3, 4, ...11
